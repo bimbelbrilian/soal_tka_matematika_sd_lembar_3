@@ -5,601 +5,552 @@ class KuisMatematika {
   "soal": [
     {
       "id": "soal003-nomor001",
-      "soal": "Hasil dari 72 ÷ 8 × 3 - 5² + 12 adalah...",
-      "jawaban": 9,
+      "soal": "Hasil dari 72 ÷ 8 × 3 - 5² + 12 adalah ....",
+      "jawaban": 14,
       "pilihan": [
-        {"id": "soal003-nomor001-A", "nilai": 5},
-        {"id": "soal003-nomor001-B", "nilai": 7},
-        {"id": "soal003-nomor001-C", "nilai": 9},
-        {"id": "soal003-nomor001-D", "nilai": 11}
+        { "id": "soal003-nomor001-A", "nilai": 4 },
+        { "id": "soal003-nomor001-B", "nilai": 8 },
+        { "id": "soal003-nomor001-C", "nilai": 14 },
+        { "id": "soal003-nomor001-D", "nilai": 24 }
       ]
     },
-
     {
       "id": "soal003-nomor002",
-      "soal": "FPB dari 48, 72, dan 108 adalah...",
+      "soal": "FPB dari 48, 72, dan 108 adalah ....",
       "jawaban": 12,
       "pilihan": [
-        {"id": "soal003-nomor002-A", "nilai": 12},
-        {"id": "soal003-nomor002-B", "nilai": 18},
-        {"id": "soal003-nomor002-C", "nilai": 24},
-        {"id": "soal003-nomor002-D", "nilai": 36}
+        { "id": "soal003-nomor002-A", "nilai": 12 },
+        { "id": "soal003-nomor002-B", "nilai": 18 },
+        { "id": "soal003-nomor002-C", "nilai": 24 },
+        { "id": "soal003-nomor002-D", "nilai": 36 }
       ]
     },
-
     {
       "id": "soal003-nomor003",
-      "soal": "KPK dari 8, 12, dan 15 adalah...",
+      "soal": "KPK dari 8, 12, dan 15 adalah ....",
       "jawaban": 120,
       "pilihan": [
-        {"id": "soal003-nomor003-A", "nilai": 60},
-        {"id": "soal003-nomor003-B", "nilai": 120},
-        {"id": "soal003-nomor003-C", "nilai": 180},
-        {"id": "soal003-nomor003-D", "nilai": 240}
+        { "id": "soal003-nomor003-A", "nilai": 60 },
+        { "id": "soal003-nomor003-B", "nilai": 120 },
+        { "id": "soal003-nomor003-C", "nilai": 180 },
+        { "id": "soal003-nomor003-D", "nilai": 240 }
       ]
     },
-
     {
       "id": "soal003-nomor004",
-      "soal": "Bentuk desimal dari 7/16 adalah...",
+      "soal": "Bentuk desimal dari 7/16 adalah ....",
       "jawaban": 0.4375,
       "pilihan": [
-        {"id": "soal003-nomor004-A", "nilai": 0.425},
-        {"id": "soal003-nomor004-B", "nilai": 0.4375},
-        {"id": "soal003-nomor004-C", "nilai": 0.445},
-        {"id": "soal003-nomor004-D", "nilai": 0.452}
+        { "id": "soal003-nomor004-A", "nilai": 0.4255 },
+        { "id": "soal003-nomor004-B", "nilai": 0.4375 },
+        { "id": "soal003-nomor004-C", "nilai": 0.4455 },
+        { "id": "soal003-nomor004-D", "nilai": 0.4525 }
       ]
     },
-
     {
       "id": "soal003-nomor005",
-      "soal": "27,5% dari 640 adalah...",
+      "soal": "27,5% dari 640 adalah ....",
       "jawaban": 176,
       "pilihan": [
-        {"id": "soal003-nomor005-A", "nilai": 176},
-        {"id": "soal003-nomor005-B", "nilai": 176.5},
-        {"id": "soal003-nomor005-C", "nilai": 177},
-        {"id": "soal003-nomor005-D", "nilai": 177.5}
+        { "id": "soal003-nomor005-A", "nilai": 173 },
+        { "id": "soal003-nomor005-B", "nilai": 174 },
+        { "id": "soal003-nomor005-C", "nilai": 175 },
+        { "id": "soal003-nomor005-D", "nilai": 176 }
       ]
     },
-
     {
       "id": "soal003-nomor006",
-      "soal": "Hasil dari 3¾ - 2,5 + 1⅔ adalah...",
+      "soal": "Hasil dari 3¾ - 2,5 + 1⅔ adalah ....",
       "jawaban": 2.9167,
       "pilihan": [
-        {"id": "soal003-nomor006-A", "nilai": 2.75},
-        {"id": "soal003-nomor006-B", "nilai": 2.9167},
-        {"id": "soal003-nomor006-C", "nilai": 3.0},
-        {"id": "soal003-nomor006-D", "nilai": 3.25}
+        { "id": "soal003-nomor006-A", "nilai": 2.75 },
+        { "id": "soal003-nomor006-B", "nilai": 2.9167 },
+        { "id": "soal003-nomor006-C", "nilai": 3.0 },
+        { "id": "soal003-nomor006-D", "nilai": 3.25 }
       ]
     },
-
     {
       "id": "soal003-nomor007",
-      "soal": "Urutkan pecahan dari yang terkecil: 3/5, 0,625, 5/8, 13/20",
-      "jawaban": "13/20, 3/5, 5/8, 0,625",
+      "soal": "Urutkan pecahan berikut dari yang terkecil: 3/5, 0,625, 7/8, 13/20",
+      "jawaban": "3/5, 0.625, 13/20, 7/8",
       "pilihan": [
-        {"id": "soal003-nomor007-A", "nilai": "3/5, 13/20, 5/8, 0,625"},
-        {"id": "soal003-nomor007-B", "nilai": "13/20, 3/5, 5/8, 0,625"},
-        {"id": "soal003-nomor007-C", "nilai": "13/20, 3/5, 0,625, 5/8"},
-        {"id": "soal003-nomor007-D", "nilai": "3/5, 5/8, 0,625, 13/20"}
+        { "id": "soal003-nomor007-A", "nilai": "3/5, 0.625, 13/20, 7/8" },
+        { "id": "soal003-nomor007-B", "nilai": "13/20, 3/5, 7/8, 0.625" },
+        { "id": "soal003-nomor007-C", "nilai": "13/20, 3/5, 0.625, 7/8" },
+        { "id": "soal003-nomor007-D", "nilai": "3/5, 7/8, 0.625, 13/20" }
       ]
     },
-
     {
       "id": "soal003-nomor008",
-      "soal": "Hasil dari 150 - (72 ÷ 6) + 18 × 2 adalah...",
-      "jawaban": 204,
+      "soal": "Hasil dari 150 - (72 ÷ 6) + 18 × 2 adalah ....",
+      "jawaban": 174,
       "pilihan": [
-        {"id": "soal003-nomor008-A", "nilai": 198},
-        {"id": "soal003-nomor008-B", "nilai": 200},
-        {"id": "soal003-nomor008-C", "nilai": 204},
-        {"id": "soal003-nomor008-D", "nilai": 206}
+        { "id": "soal003-nomor008-A", "nilai": 198 },
+        { "id": "soal003-nomor008-B", "nilai": 200 },
+        { "id": "soal003-nomor008-C", "nilai": 174 },
+        { "id": "soal003-nomor008-D", "nilai": 206 }
       ]
     },
-
     {
       "id": "soal003-nomor009",
-      "soal": "Pak Rudi menabung Rp 2.000.000 dengan bunga 5% per tahun. Bunga yang diterima setelah 8 bulan adalah...",
-      "jawaban": "Rp 66.666,67",
+      "soal": "Pak Rudi menabung Rp2.100.000,00 dengan bunga 5% per tahun. Bunga yang diterima Pak Rudi setelah 8 bulan menabung adalah ....",
+      "jawaban": 70000,
       "pilihan": [
-        {"id": "soal003-nomor009-A", "nilai": "Rp 66.666,67"},
-        {"id": "soal003-nomor009-B", "nilai": "Rp 70.000,00"},
-        {"id": "soal003-nomor009-C", "nilai": "Rp 75.000,00"},
-        {"id": "soal003-nomor009-D", "nilai": "Rp 80.000,00"}
+        { "id": "soal003-nomor009-A", "nilai": 50000 },
+        { "id": "soal003-nomor009-B", "nilai": 60000 },
+        { "id": "soal003-nomor009-C", "nilai": 65000 },
+        { "id": "soal003-nomor009-D", "nilai": 70000 }
       ]
     },
-
     {
       "id": "soal003-nomor010",
-      "soal": "Hasil dari 7/8 × 3/4 + 2/5 adalah...",
-      "jawaban": 1.075,
+      "soal": "Hasil dari 7/8 × 3/4 + 2/5 adalah ....",
+      "jawaban": 1.056,
       "pilihan": [
-        {"id": "soal003-nomor010-A", "nilai": 1.025},
-        {"id": "soal003-nomor010-B", "nilai": 1.075},
-        {"id": "soal003-nomor010-C", "nilai": 1.15},
-        {"id": "soal003-nomor010-D", "nilai": 1.2}
+        { "id": "soal003-nomor010-A", "nilai": 1.025 },
+        { "id": "soal003-nomor010-B", "nilai": 1.056 },
+        { "id": "soal003-nomor010-C", "nilai": 1.15 },
+        { "id": "soal003-nomor010-D", "nilai": 1.2 }
       ]
     },
-
     {
       "id": "soal003-nomor011",
-      "soal": "Harga sebuah buku Rp 18.500. Jika mendapat diskon 22%, harga buku setelah diskon adalah...",
-      "jawaban": "Rp 14.430",
+      "soal": "Harga sebuah buku adalah Rp18.500,00. Jika mendapat diskon 22%, maka harga buku tersebut menjadi ....",
+      "jawaban": 14430,
       "pilihan": [
-        {"id": "soal003-nomor011-A", "nilai": "Rp 14.430"},
-        {"id": "soal003-nomor011-B", "nilai": "Rp 14.500"},
-        {"id": "soal003-nomor011-C", "nilai": "Rp 14.430,00"},
-        {"id": "soal003-nomor011-D", "nilai": "Rp 15.000"}
+        { "id": "soal003-nomor011-A", "nilai": 14430 },
+        { "id": "soal003-nomor011-B", "nilai": 14500 },
+        { "id": "soal003-nomor011-C", "nilai": 14450 },
+        { "id": "soal003-nomor011-D", "nilai": 15000 }
       ]
     },
-
     {
       "id": "soal003-nomor012",
-      "soal": "Perbandingan umur Andi dan Budi adalah 4 : 7. Jika jumlah umur mereka 44 tahun, umur Andi adalah...",
+      "soal": "Perbandingan antara umur Andi dan Budi adalah 4 : 7. Jika jumlah umur mereka 44 tahun, umur Andi adalah ....",
       "jawaban": 16,
       "pilihan": [
-        {"id": "soal003-nomor012-A", "nilai": 16},
-        {"id": "soal003-nomor012-B", "nilai": 18},
-        {"id": "soal003-nomor012-C", "nilai": 20},
-        {"id": "soal003-nomor012-D", "nilai": 22}
+        { "id": "soal003-nomor012-A", "nilai": 16 },
+        { "id": "soal003-nomor012-B", "nilai": 18 },
+        { "id": "soal003-nomor012-C", "nilai": 20 },
+        { "id": "soal003-nomor012-D", "nilai": 22 }
       ]
     },
-
     {
       "id": "soal003-nomor013",
-      "soal": "Hasil dari 1,75 × 0,8 ÷ 0,5 adalah...",
+      "soal": "Hasil dari 1,75 × 0,8 ÷ 0,5 adalah ....",
       "jawaban": 2.8,
       "pilihan": [
-        {"id": "soal003-nomor013-A", "nilai": 2.4},
-        {"id": "soal003-nomor013-B", "nilai": 2.6},
-        {"id": "soal003-nomor013-C", "nilai": 2.8},
-        {"id": "soal003-nomor013-D", "nilai": 3.0}
+        { "id": "soal003-nomor013-A", "nilai": 2.4 },
+        { "id": "soal003-nomor013-B", "nilai": 2.6 },
+        { "id": "soal003-nomor013-C", "nilai": 2.8 },
+        { "id": "soal003-nomor013-D", "nilai": 3.0 }
       ]
     },
-
     {
       "id": "soal003-nomor014",
-      "soal": "Bilangan prima antara 50 dan 70 adalah...",
-      "jawaban": "53, 59, 61",
+      "soal": "Bilangan prima antara 50 dan 70 adalah ....",
+      "jawaban": "53, 59, 61, 67",
       "pilihan": [
-        {"id": "soal003-nomor014-A", "nilai": "51, 53, 59"},
-        {"id": "soal003-nomor014-B", "nilai": "53, 59, 61"},
-        {"id": "soal003-nomor014-C", "nilai": "53, 57, 59"},
-        {"id": "soal003-nomor014-D", "nilai": "53, 59, 67"}
+        { "id": "soal003-nomor014-A", "nilai": "51, 53, 59, 61" },
+        { "id": "soal003-nomor014-B", "nilai": "53, 59, 61" },
+        { "id": "soal003-nomor014-C", "nilai": "53, 57, 59, 63" },
+        { "id": "soal003-nomor014-D", "nilai": "53, 59, 61, 67" }
       ]
     },
-
     {
       "id": "soal003-nomor015",
-      "soal": "Hasil dari 5² + √225 - 4³ adalah...",
-      "jawaban": 2,
+      "soal": "Hasil dari 5² + √225 - 4² adalah ....",
+      "jawaban": 24,
       "pilihan": [
-        {"id": "soal003-nomor015-A", "nilai": 2},
-        {"id": "soal003-nomor015-B", "nilai": 5},
-        {"id": "soal003-nomor015-C", "nilai": 10},
-        {"id": "soal003-nomor015-D", "nilai": 15}
+        { "id": "soal003-nomor015-A", "nilai": 12 },
+        { "id": "soal003-nomor015-B", "nilai": 16 },
+        { "id": "soal003-nomor015-C", "nilai": 20 },
+        { "id": "soal003-nomor015-D", "nilai": 24 }
       ]
     },
-
     {
       "id": "soal003-nomor016",
-      "soal": "Keliling sebuah persegi panjang 66 cm. Jika panjangnya 20 cm, maka lebarnya adalah...",
+      "soal": "Keliling sebuah persegi panjang adalah 66 cm. Jika panjangnya 20 cm, maka lebar persegi tersebut adalah ....",
       "jawaban": 13,
       "pilihan": [
-        {"id": "soal003-nomor016-A", "nilai": 13},
-        {"id": "soal003-nomor016-B", "nilai": 16},
-        {"id": "soal003-nomor016-C", "nilai": 23},
-        {"id": "soal003-nomor016-D", "nilai": 26}
+        { "id": "soal003-nomor016-A", "nilai": 8 },
+        { "id": "soal003-nomor016-B", "nilai": 10 },
+        { "id": "soal003-nomor016-C", "nilai": 12 },
+        { "id": "soal003-nomor016-D", "nilai": 13 }
       ]
     },
-
     {
       "id": "soal003-nomor017",
-      "soal": "Luas sebuah segitiga 120 cm². Jika alasnya 15 cm, maka tingginya adalah...",
+      "soal": "Luas sebuah segitiga 120 cm². Jika alasnya 15 cm, maka tingginya adalah ....",
       "jawaban": 16,
       "pilihan": [
-        {"id": "soal003-nomor017-A", "nilai": 6},
-        {"id": "soal003-nomor017-B", "nilai": 8},
-        {"id": "soal003-nomor017-C", "nilai": 10},
-        {"id": "soal003-nomor017-D", "nilai": 12}
+        { "id": "soal003-nomor017-A", "nilai": 6 },
+        { "id": "soal003-nomor017-B", "nilai": 16 },
+        { "id": "soal003-nomor017-C", "nilai": 10 },
+        { "id": "soal003-nomor017-D", "nilai": 12 }
       ]
     },
-
     {
       "id": "soal003-nomor018",
-      "soal": "Sebuah kubus memiliki panjang rusuk 18 cm. Volume kubus tersebut adalah...",
+      "soal": "Sebuah kubus memiliki panjang rusuk 18 cm. Volume kubus tersebut adalah ....",
       "jawaban": 5832,
       "pilihan": [
-        {"id": "soal003-nomor018-A", "nilai": 5832},
-        {"id": "soal003-nomor018-B", "nilai": 5832},
-        {"id": "soal003-nomor018-C", "nilai": 5832},
-        {"id": "soal003-nomor018-D", "nilai": 5832}
+        { "id": "soal003-nomor018-A", "nilai": 5832 },
+        { "id": "soal003-nomor018-B", "nilai": 5942 },
+        { "id": "soal003-nomor018-C", "nilai": 5322 },
+        { "id": "soal003-nomor018-D", "nilai": 5672 }
       ]
     },
-
     {
       "id": "soal003-nomor019",
-      "soal": "Sebuah lingkaran memiliki diameter 28 cm. Luas lingkaran tersebut adalah... (π = 22/7)",
+      "soal": "Sebuah lingkaran memiliki diameter 28 cm. Luas lingkaran tersebut adalah .... (π = 22/7)",
       "jawaban": 616,
       "pilihan": [
-        {"id": "soal003-nomor019-A", "nilai": 616},
-        {"id": "soal003-nomor019-B", "nilai": 628},
-        {"id": "soal003-nomor019-C", "nilai": 638},
-        {"id": "soal003-nomor019-D", "nilai": 648}
+        { "id": "soal003-nomor019-A", "nilai": 616 },
+        { "id": "soal003-nomor019-B", "nilai": 628 },
+        { "id": "soal003-nomor019-C", "nilai": 638 },
+        { "id": "soal003-nomor019-D", "nilai": 648 }
       ]
     },
-
     {
       "id": "soal003-nomor020",
-      "soal": "Sebuah balok memiliki panjang 30 cm, lebar 12 cm, dan tinggi 10 cm. Luas permukaan balok tersebut adalah...",
-      "jawaban": 1320,
+      "soal": "Sebuah balok memiliki panjang 30 cm, lebar 12 cm, dan tinggi 10 cm. Maka luas permukaan balok tersebut adalah ....",
+      "jawaban": 1560,
       "pilihan": [
-        {"id": "soal003-nomor020-A", "nilai": 1320},
-        {"id": "soal003-nomor020-B", "nilai": 1320},
-        {"id": "soal003-nomor020-C", "nilai": 1320},
-        {"id": "soal003-nomor020-D", "nilai": 1320}
+        { "id": "soal003-nomor020-A", "nilai": 1360 },
+        { "id": "soal003-nomor020-B", "nilai": 1380 },
+        { "id": "soal003-nomor020-C", "nilai": 1480 },
+        { "id": "soal003-nomor020-D", "nilai": 1560 }
       ]
     },
-
     {
       "id": "soal003-nomor021",
-      "soal": "5,2 km + 680 m + 3.200 cm = ... meter",
-      "jawaban": 5908,
+      "soal": "5,2 km + 680 m + 3.200 cm = .... m",
+      "jawaban": 5912,
       "pilihan": [
-        {"id": "soal003-nomor021-A", "nilai": 5888},
-        {"id": "soal003-nomor021-B", "nilai": 5900},
-        {"id": "soal003-nomor021-C", "nilai": 5908},
-        {"id": "soal003-nomor021-D", "nilai": 5920}
+        { "id": "soal003-nomor021-A", "nilai": 591200 },
+        { "id": "soal003-nomor021-B", "nilai": 59120 },
+        { "id": "soal003-nomor021-C", "nilai": 591.2 },
+        { "id": "soal003-nomor021-D", "nilai": 5912 }
       ]
     },
-
     {
       "id": "soal003-nomor022",
-      "soal": "3 jam 25 menit + 4 jam 40 menit = ... menit",
-      "jawaban": 445,
+      "soal": "3 jam 25 menit + 4 jam 40 menit = .... menit",
+      "jawaban": 485,
       "pilihan": [
-        {"id": "soal003-nomor022-A", "nilai": 405},
-        {"id": "soal003-nomor022-B", "nilai": 415},
-        {"id": "soal003-nomor022-C", "nilai": 425},
-        {"id": "soal003-nomor022-D", "nilai": 435}
+        { "id": "soal003-nomor022-A", "nilai": 405 },
+        { "id": "soal003-nomor022-B", "nilai": 415 },
+        { "id": "soal003-nomor022-C", "nilai": 485 },
+        { "id": "soal003-nomor022-D", "nilai": 435 }
       ]
     },
-
     {
       "id": "soal003-nomor023",
-      "soal": "Sebuah akuarium berukuran panjang 120 cm, lebar 50 cm, dan tinggi 40 cm. Volume akuarium tersebut adalah... liter",
+      "soal": "Sebuah akuarium berbentuk balok mempunyai ukuran panjang 120 cm, lebar 50 cm, dan tinggi 40 cm. Volume akuarium tersebut adalah .... liter",
       "jawaban": 240,
       "pilihan": [
-        {"id": "soal003-nomor023-A", "nilai": 240},
-        {"id": "soal003-nomor023-B", "nilai": 240},
-        {"id": "soal003-nomor023-C", "nilai": 240},
-        {"id": "soal003-nomor023-D", "nilai": 240}
+        { "id": "soal003-nomor023-A", "nilai": 240 },
+        { "id": "soal003-nomor023-B", "nilai": 250 },
+        { "id": "soal003-nomor023-C", "nilai": 260 },
+        { "id": "soal003-nomor023-D", "nilai": 270 }
       ]
     },
-
     {
       "id": "soal003-nomor024",
-      "soal": "Ibu membeli 3,2 kg gula, 2,5 kg tepung, dan 1,1 kg margarin. Total berat belanjaan Ibu adalah... gram",
+      "soal": "Bu Diana membeli 3,2 kg gula, 2,5 kg tepung, dan 1,1 kg margarin. Total berat belanjaan Bu Diana adalah .... gram",
       "jawaban": 6800,
       "pilihan": [
-        {"id": "soal003-nomor024-A", "nilai": 6800},
-        {"id": "soal003-nomor024-B", "nilai": 6900},
-        {"id": "soal003-nomor024-C", "nilai": 7000},
-        {"id": "soal003-nomor024-D", "nilai": 7200}
+        { "id": "soal003-nomor024-A", "nilai": 5400 },
+        { "id": "soal003-nomor024-B", "nilai": 6500 },
+        { "id": "soal003-nomor024-C", "nilai": 6800 },
+        { "id": "soal003-nomor024-D", "nilai": 7200 }
       ]
     },
-
     {
       "id": "soal003-nomor025",
-      "soal": "Sebuah mobil menempuh jarak 360 km dengan kecepatan 80 km/jam. Waktu yang diperlukan adalah... jam",
-      "jawaban": 4.5,
+      "soal": "Sebuah mobil menempuh selama 4,5 jam dengan kecepatan 80 km/jam. Maka jarak yang ditempuh mobil tersebut adalah .... km",
+      "jawaban": 360,
       "pilihan": [
-        {"id": "soal003-nomor025-A", "nilai": 4.0},
-        {"id": "soal003-nomor025-B", "nilai": 4.25},
-        {"id": "soal003-nomor025-C", "nilai": 4.5},
-        {"id": "soal003-nomor025-D", "nilai": 4.75}
+        { "id": "soal003-nomor025-A", "nilai": 325 },
+        { "id": "soal003-nomor025-B", "nilai": 340 },
+        { "id": "soal003-nomor025-C", "nilai": 345 },
+        { "id": "soal003-nomor025-D", "nilai": 360 }
       ]
     },
-
     {
       "id": "soal003-nomor026",
-      "soal": "Sebuah kereta berangkat pukul 06.45 dan tiba pukul 09.15. Lama perjalanan adalah...",
-      "jawaban": "2 jam 30 menit",
+      "soal": "Keliling sebuah taman berbentuk persegi adalah 96 meter. Maka luas dari taman tersebut adalah ....",
+      "jawaban": 576,
       "pilihan": [
-        {"id": "soal003-nomor026-A", "nilai": "2 jam 15 menit"},
-        {"id": "soal003-nomor026-B", "nilai": "2 jam 30 menit"},
-        {"id": "soal003-nomor026-C", "nilai": "2 jam 45 menit"},
-        {"id": "soal003-nomor026-D", "nilai": "3 jam"}
+        { "id": "soal003-nomor026-A", "nilai": 686 },
+        { "id": "soal003-nomor026-B", "nilai": 656 },
+        { "id": "soal003-nomor026-C", "nilai": 625 },
+        { "id": "soal003-nomor026-D", "nilai": 576 }
       ]
     },
-
     {
       "id": "soal003-nomor027",
-      "soal": "Suhu di puncak gunung -4°C dan di kaki gunung 18°C. Perbedaan suhu keduanya adalah...",
-      "jawaban": 22,
+      "soal": "Sebuah segitiga sama kaki memiliki keliling 58 cm. Jika panjang alasnya 20 cm, maka panjang masing-masing sisi yang sama adalah ....",
+      "jawaban": 19,
       "pilihan": [
-        {"id": "soal003-nomor027-A", "nilai": 20},
-        {"id": "soal003-nomor027-B", "nilai": 21},
-        {"id": "soal003-nomor027-C", "nilai": 22},
-        {"id": "soal003-nomor027-D", "nilai": 23}
+        { "id": "soal003-nomor027-A", "nilai": 22 },
+        { "id": "soal003-nomor027-B", "nilai": 21 },
+        { "id": "soal003-nomor027-C", "nilai": 20 },
+        { "id": "soal003-nomor027-D", "nilai": 19 }
       ]
     },
-
     {
       "id": "soal003-nomor028",
-      "soal": "Hasil dari (-8) × (-6) + 12 ÷ (-3) adalah...",
-      "jawaban": 42,
-      "pilihan": [
-        {"id": "soal003-nomor028-A", "nilai": 36},
-        {"id": "soal003-nomor028-B", "nilai": 42},
-        {"id": "soal003-nomor028-C", "nilai": 44},
-        {"id": "soal003-nomor028-D", "nilai": 48}
-      ]
-    },
-
-    {
-      "id": "soal003-nomor029",
-      "soal": "Diketahui 2x + 7 = 17, maka nilai x adalah...",
-      "jawaban": 5,
-      "pilihan": [
-        {"id": "soal003-nomor029-A", "nilai": 3},
-        {"id": "soal003-nomor029-B", "nilai": 4},
-        {"id": "soal003-nomor029-C", "nilai": 5},
-        {"id": "soal003-nomor029-D", "nilai": 6}
-      ]
-    },
-
-    {
-      "id": "soal003-nomor030",
-      "soal": "Nilai dari 3x - 8 = 10 jika x = 6 adalah...",
+      "soal": "Volume sebuah balok adalah 3.600 cm³. Jika panjang 24 cm dan lebar 15 cm, maka tinggi balok tersebut adalah ....",
       "jawaban": 10,
       "pilihan": [
-        {"id": "soal003-nomor030-A", "nilai": 8},
-        {"id": "soal003-nomor030-B", "nilai": 10},
-        {"id": "soal003-nomor030-C", "nilai": 12},
-        {"id": "soal003-nomor030-D", "nilai": 14}
+        { "id": "soal003-nomor028-A", "nilai": 9 },
+        { "id": "soal003-nomor028-B", "nilai": 10 },
+        { "id": "soal003-nomor028-C", "nilai": 12 },
+        { "id": "soal003-nomor028-D", "nilai": 15 }
       ]
     },
-
+    {
+      "id": "soal003-nomor029",
+      "soal": "Jari-jari sebuah lingkaran 35 cm. Keliling lingkaran tersebut adalah .... (π = 22/7)",
+      "jawaban": 220,
+      "pilihan": [
+        { "id": "soal003-nomor029-A", "nilai": 220 },
+        { "id": "soal003-nomor029-B", "nilai": 222 },
+        { "id": "soal003-nomor029-C", "nilai": 224 },
+        { "id": "soal003-nomor029-D", "nilai": 226 }
+      ]
+    },
+    {
+      "id": "soal003-nomor030",
+      "soal": "Kebun Pak Agus berbentuk persegi panjang dengan panjang 48 m dan lebar 32 m. Keliling Kebun Pak Agus tersebut adalah ....",
+      "jawaban": 160,
+      "pilihan": [
+        { "id": "soal003-nomor030-A", "nilai": 150 },
+        { "id": "soal003-nomor030-B", "nilai": 160 },
+        { "id": "soal003-nomor030-C", "nilai": 165 },
+        { "id": "soal003-nomor030-D", "nilai": 170 }
+      ]
+    },
     {
       "id": "soal003-nomor031",
-      "soal": "Sebuah persegi memiliki luas 225 cm². Panjang sisi persegi tersebut adalah...",
-      "jawaban": 15,
+      "soal": "Sebuah prisma segitiga memiliki alas berbentuk segitiga siku-siku dengan panjang sisi 7 cm, 24 cm, dan 25 cm. Jika tinggi prisma 12 cm, volume prisma tersebut adalah ....",
+      "jawaban": 1008,
       "pilihan": [
-        {"id": "soal003-nomor031-A", "nilai": 13},
-        {"id": "soal003-nomor031-B", "nilai": 14},
-        {"id": "soal003-nomor031-C", "nilai": 15},
-        {"id": "soal003-nomor031-D", "nilai": 16}
+        { "id": "soal003-nomor031-A", "nilai": 1980 },
+        { "id": "soal003-nomor031-B", "nilai": 1480 },
+        { "id": "soal003-nomor031-C", "nilai": 1208 },
+        { "id": "soal003-nomor031-D", "nilai": 1008 }
       ]
     },
-
     {
       "id": "soal003-nomor032",
-      "soal": "Hasil dari √289 + √81 adalah...",
-      "jawaban": 26,
+      "soal": "Sebuah tabung memiliki diameter alas 18 cm dan tinggi 21 cm. Volume tabung tersebut adalah .... (π = 22/7)",
+      "jawaban": 5346,
       "pilihan": [
-        {"id": "soal003-nomor032-A", "nilai": 20},
-        {"id": "soal003-nomor032-B", "nilai": 24},
-        {"id": "soal003-nomor032-C", "nilai": 26},
-        {"id": "soal003-nomor032-D", "nilai": 28}
+        { "id": "soal003-nomor032-A", "nilai": 5346 },
+        { "id": "soal003-nomor032-B", "nilai": 5760 },
+        { "id": "soal003-nomor032-C", "nilai": 5836 },
+        { "id": "soal003-nomor032-D", "nilai": 5850 }
       ]
     },
-
     {
       "id": "soal003-nomor033",
-      "soal": "Sebuah toko menjual barang dengan untung 15%. Jika harga beli Rp 120.000, harga jualnya adalah...",
-      "jawaban": "Rp 138.000",
+      "soal": "Sebuah kerucut memiliki jari-jari alas 9 cm dan tinggi 14 cm. Volume kerucut tersebut adalah .... (π = 22/7)",
+      "jawaban": 1188,
       "pilihan": [
-        {"id": "soal003-nomor033-A", "nilai": "Rp 135.000"},
-        {"id": "soal003-nomor033-B", "nilai": "Rp 138.000"},
-        {"id": "soal003-nomor033-C", "nilai": "Rp 140.000"},
-        {"id": "soal003-nomor033-D", "nilai": "Rp 142.000"}
+        { "id": "soal003-nomor033-A", "nilai": 1188 },
+        { "id": "soal003-nomor033-B", "nilai": 1258 },
+        { "id": "soal003-nomor033-C", "nilai": 1492 },
+        { "id": "soal003-nomor033-D", "nilai": 1796 }
       ]
     },
-
     {
       "id": "soal003-nomor034",
-      "soal": "Hasil dari 3³ + 4³ adalah...",
-      "jawaban": 91,
+      "soal": "Besar sudut pada segitiga sama sisi adalah ....",
+      "jawaban": 60,
       "pilihan": [
-        {"id": "soal003-nomor034-A", "nilai": 81},
-        {"id": "soal003-nomor034-B", "nilai": 85},
-        {"id": "soal003-nomor034-C", "nilai": 91},
-        {"id": "soal003-nomor034-D", "nilai": 93}
+        { "id": "soal003-nomor034-A", "nilai": 50 },
+        { "id": "soal003-nomor034-B", "nilai": 60 },
+        { "id": "soal003-nomor034-C", "nilai": 90 },
+        { "id": "soal003-nomor034-D", "nilai": 120 }
       ]
     },
-
     {
       "id": "soal003-nomor035",
-      "soal": "Sebuah peta berskala 1 : 200.000. Jika jarak pada peta 4 cm, maka jarak sebenarnya adalah...",
-      "jawaban": 8,
+      "soal": "Sudut yang besarnya 150° termasuk sudut ....",
+      "jawaban": "Tumpul",
       "pilihan": [
-        {"id": "soal003-nomor035-A", "nilai": 6},
-        {"id": "soal003-nomor035-B", "nilai": 7},
-        {"id": "soal003-nomor035-C", "nilai": 8},
-        {"id": "soal003-nomor035-D", "nilai": 9}
+        { "id": "soal003-nomor035-A", "nilai": "Lancip" },
+        { "id": "soal003-nomor035-B", "nilai": "Siku-siku" },
+        { "id": "soal003-nomor035-C", "nilai": "Tumpul" },
+        { "id": "soal003-nomor035-D", "nilai": "Refleks" }
       ]
     },
-
     {
       "id": "soal003-nomor036",
-      "soal": "Hasil dari 25% dari 640 + 3/4 × 80 adalah...",
-      "jawaban": 280,
+      "soal": "Sebuah limas segiempat beraturan memiliki panjang sisi alas 12 cm dan tinggi limas 15 cm. Volume limas tersebut adalah ....",
+      "jawaban": 720,
       "pilihan": [
-        {"id": "soal003-nomor036-A", "nilai": 260},
-        {"id": "soal003-nomor036-B", "nilai": 270},
-        {"id": "soal003-nomor036-C", "nilai": 280},
-        {"id": "soal003-nomor036-D", "nilai": 290}
+        { "id": "soal003-nomor036-A", "nilai": 540 },
+        { "id": "soal003-nomor036-B", "nilai": 670 },
+        { "id": "soal003-nomor036-C", "nilai": 720 },
+        { "id": "soal003-nomor036-D", "nilai": 840 }
       ]
     },
-
     {
       "id": "soal003-nomor037",
-      "soal": "Rata-rata dari 48, 52, 46, 50, dan 54 adalah...",
-      "jawaban": 50,
+      "soal": "Sebuah bola memiliki jari-jari 24 cm. Volume bola tersebut adalah .... (π = 22/7)",
+      "jawaban": 58176,
       "pilihan": [
-        {"id": "soal003-nomor037-A", "nilai": 48},
-        {"id": "soal003-nomor037-B", "nilai": 49},
-        {"id": "soal003-nomor037-C", "nilai": 50},
-        {"id": "soal003-nomor037-D", "nilai": 51}
+        { "id": "soal003-nomor037-A", "nilai": 57792 },
+        { "id": "soal003-nomor037-B", "nilai": 58000 },
+        { "id": "soal003-nomor037-C", "nilai": 58176 },
+        { "id": "soal003-nomor037-D", "nilai": 58400 }
       ]
     },
-
     {
       "id": "soal003-nomor038",
-      "soal": "Median dari data 8, 10, 12, 14, 16 adalah...",
-      "jawaban": 12,
+      "soal": "Sebuah trapesium memiliki panjang sisi sejajar 15 cm dan 25 cm, serta tinggi 10 cm. Luas trapesium tersebut adalah ....",
+      "jawaban": 200,
       "pilihan": [
-        {"id": "soal003-nomor038-A", "nilai": 10},
-        {"id": "soal003-nomor038-B", "nilai": 12},
-        {"id": "soal003-nomor038-C", "nilai": 14},
-        {"id": "soal003-nomor038-D", "nilai": 16}
+        { "id": "soal003-nomor038-A", "nilai": 200 },
+        { "id": "soal003-nomor038-B", "nilai": 205 },
+        { "id": "soal003-nomor038-C", "nilai": 210 },
+        { "id": "soal003-nomor038-D", "nilai": 215 }
       ]
     },
-
     {
       "id": "soal003-nomor039",
-      "soal": "Modus dari data 3, 6, 8, 8, 9, 9, 9, 10 adalah...",
-      "jawaban": 9,
+      "soal": "Sebuah layang-layang memiliki panjang diagonal 18 cm dan 28 cm. Maka luas layang-layang tersebut adalah ....",
+      "jawaban": 252,
       "pilihan": [
-        {"id": "soal003-nomor039-A", "nilai": 8},
-        {"id": "soal003-nomor039-B", "nilai": 9},
-        {"id": "soal003-nomor039-C", "nilai": 10},
-        {"id": "soal003-nomor039-D", "nilai": 11}
+        { "id": "soal003-nomor039-A", "nilai": 250 },
+        { "id": "soal003-nomor039-B", "nilai": 252 },
+        { "id": "soal003-nomor039-C", "nilai": 254 },
+        { "id": "soal003-nomor039-D", "nilai": 256 }
       ]
     },
-
     {
       "id": "soal003-nomor040",
-      "soal": "Bilangan kelipatan persekutuan terkecil dari 15 dan 20 adalah...",
-      "jawaban": 60,
+      "soal": "Sebuah belah ketupat memiliki panjang diagonal 22 cm dan 30 cm. Luas belah ketupat tersebut adalah ....",
+      "jawaban": 330,
       "pilihan": [
-        {"id": "soal003-nomor040-A", "nilai": 45},
-        {"id": "soal003-nomor040-B", "nilai": 50},
-        {"id": "soal003-nomor040-C", "nilai": 60},
-        {"id": "soal003-nomor040-D", "nilai": 75}
+        { "id": "soal003-nomor040-A", "nilai": 325 },
+        { "id": "soal003-nomor040-B", "nilai": 330 },
+        { "id": "soal003-nomor040-C", "nilai": 335 },
+        { "id": "soal003-nomor040-D", "nilai": 340 }
       ]
     },
-
     {
       "id": "soal003-nomor041",
-      "soal": "Hasil dari (24 + 18) ÷ 6 × 5 adalah...",
-      "jawaban": 35,
-      "pilihan": [
-        {"id": "soal003-nomor041-A", "nilai": 30},
-        {"id": "soal003-nomor041-B", "nilai": 35},
-        {"id": "soal003-nomor041-C", "nilai": 40},
-        {"id": "soal003-nomor041-D", "nilai": 45}
-      ]
-    },
-
-    {
-      "id": "soal003-nomor042",
-      "soal": "Jika x = 5, maka nilai dari 2x² - 3x + 4 adalah...",
-      "jawaban": 39,
-      "pilihan": [
-        {"id": "soal003-nomor042-A", "nilai": 35},
-        {"id": "soal003-nomor042-B", "nilai": 37},
-        {"id": "soal003-nomor042-C", "nilai": 39},
-        {"id": "soal003-nomor042-D", "nilai": 41}
-      ]
-    },
-
-    {
-      "id": "soal003-nomor043",
-      "soal": "Hasil dari 18² - 17² adalah...",
-      "jawaban": 35,
-      "pilihan": [
-        {"id": "soal003-nomor043-A", "nilai": 33},
-        {"id": "soal003-nomor043-B", "nilai": 34},
-        {"id": "soal003-nomor043-C", "nilai": 35},
-        {"id": "soal003-nomor043-D", "nilai": 36}
-      ]
-    },
-
-    {
-      "id": "soal003-nomor044",
-      "soal": "Sebuah bak air penuh berisi 80 liter. Setelah digunakan 35 liter, sisa air di bak adalah...",
-      "jawaban": 45,
-      "pilihan": [
-        {"id": "soal003-nomor044-A", "nilai": 40},
-        {"id": "soal003-nomor044-B", "nilai": 42},
-        {"id": "soal003-nomor044-C", "nilai": 45},
-        {"id": "soal003-nomor044-D", "nilai": 48}
-      ]
-    },
-
-    {
-      "id": "soal003-nomor045",
-      "soal": "Jika diketahui volume kubus 64 cm³, panjang rusuknya adalah...",
-      "jawaban": 4,
-      "pilihan": [
-        {"id": "soal003-nomor045-A", "nilai": 2},
-        {"id": "soal003-nomor045-B", "nilai": 3},
-        {"id": "soal003-nomor045-C", "nilai": 4},
-        {"id": "soal003-nomor045-D", "nilai": 5}
-      ]
-    },
-
-    {
-      "id": "soal003-nomor046",
-      "soal": "Sebuah kelas terdiri dari 12 siswa laki-laki dan 18 siswa perempuan. Perbandingan siswa laki-laki dengan perempuan adalah...",
-      "jawaban": "2 : 3",
-      "pilihan": [
-        {"id": "soal003-nomor046-A", "nilai": "1 : 2"},
-        {"id": "soal003-nomor046-B", "nilai": "2 : 3"},
-        {"id": "soal003-nomor046-C", "nilai": "3 : 4"},
-        {"id": "soal003-nomor046-D", "nilai": "3 : 5"}
-      ]
-    },
-
-    {
-      "id": "soal003-nomor047",
-      "soal": "Sebuah tong diisi 15 liter air setiap 5 menit. Dalam 20 menit, air yang masuk sebanyak...",
-      "jawaban": 60,
-      "pilihan": [
-        {"id": "soal003-nomor047-A", "nilai": 45},
-        {"id": "soal003-nomor047-B", "nilai": 50},
-        {"id": "soal003-nomor047-C", "nilai": 60},
-        {"id": "soal003-nomor047-D", "nilai": 75}
-      ]
-    },
-
-    {
-      "id": "soal003-nomor048",
-      "soal": "Suhu meningkat dari 24°C menjadi 33°C. Kenaikan suhu adalah...",
+      "soal": "Data nilai ulangan kelas 5 SD adalah sebagai berikut: 9, 8, 7, 10, 8, 9, 9, 8, 7, 9, 8, 9, 10, 7, 8, 8, 10, 9, 7. Modus dari data tersebut adalah ....",
       "jawaban": 9,
       "pilihan": [
-        {"id": "soal003-nomor048-A", "nilai": 8},
-        {"id": "soal003-nomor048-B", "nilai": 9},
-        {"id": "soal003-nomor048-C", "nilai": 10},
-        {"id": "soal003-nomor048-D", "nilai": 11}
+        { "id": "soal003-nomor041-A", "nilai": 7 },
+        { "id": "soal003-nomor041-B", "nilai": 8 },
+        { "id": "soal003-nomor041-C", "nilai": 9 },
+        { "id": "soal003-nomor041-D", "nilai": 10 }
       ]
     },
-
     {
-      "id": "soal003-nomor049",
-      "soal": "Hasil dari 0,25 × 48 adalah...",
+      "id": "soal003-nomor042",
+      "soal": "Rata-rata nilai 9 siswa adalah 78. Jika nilai seorang siswa 83 digabungkan, rata-rata baru menjadi ....",
+      "jawaban": 78.5,
+      "pilihan": [
+        { "id": "soal003-nomor042-A", "nilai": 78.5 },
+        { "id": "soal003-nomor042-B", "nilai": 79 },
+        { "id": "soal003-nomor042-C", "nilai": 80 },
+        { "id": "soal003-nomor042-D", "nilai": 80.5 }
+      ]
+    },
+    {
+      "id": "soal003-nomor043",
+      "soal": "Data tinggi badan siswa kelas 6 SD (cm): 130, 132, 145, 138, 140, 132, 135, 150, 142, 155, 148, 150, 152, 165, 155. Median dari data tersebut adalah ....",
+      "jawaban": 150,
+      "pilihan": [
+        { "id": "soal003-nomor043-A", "nilai": 135 },
+        { "id": "soal003-nomor043-B", "nilai": 155 },
+        { "id": "soal003-nomor043-C", "nilai": 142 },
+        { "id": "soal003-nomor043-D", "nilai": 150 }
+      ]
+    },
+    {
+      "id": "soal003-nomor044",
+      "soal": "Peluang munculnya mata dadu genap pada pelemparan sebuah dadu adalah ....",
+      "jawaban": "1/2",
+      "pilihan": [
+        { "id": "soal003-nomor044-A", "nilai": "1/3" },
+        { "id": "soal003-nomor044-B", "nilai": "1/2" },
+        { "id": "soal003-nomor044-C", "nilai": "2/3" },
+        { "id": "soal003-nomor044-D", "nilai": "3/4" }
+      ]
+    },
+    {
+      "id": "soal003-nomor045",
+      "soal": "Dalam sebuah kotak terdapat 6 bola merah, 5 bola biru, dan 4 bola hijau. Peluang terambil bola biru adalah ....",
+      "jawaban": "1/3",
+      "pilihan": [
+        { "id": "soal003-nomor045-A", "nilai": "1/3" },
+        { "id": "soal003-nomor045-B", "nilai": "5/10" },
+        { "id": "soal003-nomor045-C", "nilai": "1/4" },
+        { "id": "soal003-nomor045-D", "nilai": "3/4" }
+      ]
+    },
+    {
+      "id": "soal003-nomor046",
+      "soal": "Data penjualan buku di toko Mutiara selama enam hari adalah sebagai berikut: Senin = 28, Selasa = 34, Rabu = 40, Kamis = 38, Jumat = 44, Sabtu = 56. Rata-rata penjualan per hari adalah ....",
+      "jawaban": 40,
+      "pilihan": [
+        { "id": "soal003-nomor046-A", "nilai": 39 },
+        { "id": "soal003-nomor046-B", "nilai": 40 },
+        { "id": "soal003-nomor046-C", "nilai": 41 },
+        { "id": "soal003-nomor046-D", "nilai": 42 }
+      ]
+    },
+    {
+      "id": "soal003-nomor047",
+      "soal": "Pengunjung perpustakaan Brilian selama 20 hari berturut-turut adalah sebagai berikut: 25, 30, 40, 27, 22, 45, 30, 23, 40, 30, 49, 35, 28, 29, 30, 45, 40, 25, 35, 42. Selisih pengunjung terbanyak dan tersedikit adalah ....",
+      "jawaban": 27,
+      "pilihan": [
+        { "id": "soal003-nomor047-A", "nilai": 24 },
+        { "id": "soal003-nomor047-B", "nilai": 25 },
+        { "id": "soal003-nomor047-C", "nilai": 26 },
+        { "id": "soal003-nomor047-D", "nilai": 27 }
+      ]
+    },
+    {
+      "id": "soal003-nomor048",
+      "soal": "Berikut ini merupakan data usia siswa kelas 6 SD Brilian jaya: 11, 12, 13, 11, 12, 14, 13, 12, 11, 13, 12, 13, 12, 12, 13, 11, 11, 12, 14, 13. Modus dari data tersebut adalah ....",
       "jawaban": 12,
       "pilihan": [
-        {"id": "soal003-nomor049-A", "nilai": 10},
-        {"id": "soal003-nomor049-B", "nilai": 11},
-        {"id": "soal003-nomor049-C", "nilai": 12},
-        {"id": "soal003-nomor049-D", "nilai": 13}
+        { "id": "soal003-nomor048-A", "nilai": 14 },
+        { "id": "soal003-nomor048-B", "nilai": 13 },
+        { "id": "soal003-nomor048-C", "nilai": 12 },
+        { "id": "soal003-nomor048-D", "nilai": 11 }
       ]
     },
-
+    {
+      "id": "soal003-nomor049",
+      "soal": "18, 20, 22, 25, 28, 38, 20, 25, 26, 29, 25, 25. Rata-rata dari data tersebut adalah ....",
+      "jawaban": 25.25,
+      "pilihan": [
+        { "id": "soal003-nomor049-A", "nilai": 25.1 },
+        { "id": "soal003-nomor049-B", "nilai": 25.15 },
+        { "id": "soal003-nomor049-C", "nilai": 25.2 },
+        { "id": "soal003-nomor049-D", "nilai": 25.25 }
+      ]
+    },
     {
       "id": "soal003-nomor050",
-      "soal": "Sebuah kelas memiliki 40 siswa. Jika 15% siswa tidak hadir, maka jumlah siswa yang hadir adalah...",
-      "jawaban": 34,
+      "soal": "Dalam sebuah kantong terdapat 6 kelereng merah, 5 kelereng biru, dan 7 kelereng hijau. Peluang terambil kelereng hijau adalah ....",
+      "jawaban": "7/18",
       "pilihan": [
-        {"id": "soal003-nomor050-A", "nilai": 32},
-        {"id": "soal003-nomor050-B", "nilai": 33},
-        {"id": "soal003-nomor050-C", "nilai": 34},
-        {"id": "soal003-nomor050-D", "nilai": 35}
+        { "id": "soal003-nomor050-A", "nilai": "5/18" },
+        { "id": "soal003-nomor050-B", "nilai": "6/18" },
+        { "id": "soal003-nomor050-C", "nilai": "7/18" },
+        { "id": "soal003-nomor050-D", "nilai": "13/18" }
                     ]
                 }
             ]
