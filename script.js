@@ -467,7 +467,7 @@ class KuisMatematika {
     },
     {
       "id": "soal003-nomor043",
-      "soal": "Data tinggi badan siswa kelas 6 SD (cm): 130, 132, 145, 138, 140, 132, 135, 150, 142, 155, 148, 150, 152, 165, 155. Median dari data tersebut adalah ....",
+      "soal": "Data tinggi badan siswa kelas 6 SD (cm): 130, 132, 138, 140, 142, 142, 148, 150, 151, 151, 152, 152, 154, 155, 156. Median dari data tersebut adalah ....",
       "jawaban": 150,
       "pilihan": [
         { "id": "soal003-nomor043-A", "nilai": 135 },
@@ -1231,3 +1231,4 @@ document.head.appendChild(confettiStyle);
 document.addEventListener('DOMContentLoaded', () => {
     new KuisMatematika();
 });
+
