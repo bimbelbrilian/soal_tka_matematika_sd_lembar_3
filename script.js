@@ -1091,7 +1091,7 @@ prosesPengumpulan() {
         ctx.fillText('Atas Partisipasi Dalam', canvas.width / 2, 200);
         
         ctx.font = 'bold 36px Arial';
-        ctx.fillText(this.soalData["judul-soal001"], canvas.width / 2, 250);
+        ctx.fillText(this.soalData["judul-soal003"], canvas.width / 2, 250);
         
         ctx.font = 'bold 42px Arial';
         ctx.fillText(this.userData.nama, canvas.width / 2, 350);
